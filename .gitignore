@@ -1,0 +1,20 @@
+# Upload File
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Composer
+/vendor/
